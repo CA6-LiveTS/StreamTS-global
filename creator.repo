@@ -1,0 +1,7 @@
+[repo]
+type="LiveTS_listrepo_v1"
+name="Creator"
+contact="livets@ca6.dev"
+enabled=1
+
+[livets]
