@@ -1,0 +1,16 @@
+[repo]
+type="LiveTS_toprepo_v1"
+name="LiveTS"
+contact="livets@ca6.dev"
+enabled=1
+
+[livets]
+# repo will be searched in order they appears in this list
+# enabled, warning, always search, allow subtop, url of the repo file
+1,0,1,1,"Official","https://github.com/CA6-LiveTS/StreamTS-global/blob/main/official.repo"
+0,0,0,0,"Partner","https://github.com/CA6-LiveTS/StreamTS-global/blob/main/partner.repo"
+0,0,0,0,"Creator","https://github.com/CA6-LiveTS/StreamTS-global/blob/main/creator.repo"
+0,0,0,0,"Affiliate","https://github.com/CA6-LiveTS/StreamTS-global/blob/main/affiliate.repo"
+0,0,0,0,"Community","https://github.com/CA6-LiveTS/StreamTS-global/blob/main/community.repo"
+0,0,0,0,"Unknown","https://github.com/CA6-LiveTS/StreamTS-global/blob/main/unknown.repo"
+0,0,0,0,"Test","https://github.com/CA6-LiveTS/StreamTS-global/blob/main/test.repo"
