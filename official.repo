@@ -8,3 +8,4 @@ enabled=1
 #channel id, channel handle, channel name, file repo url
 "UCdrQWcX7XLDSUEh9SAxnyBg","inukaipuwin","Purin ch. 犬養プリン ","https://raw.githubusercontent.com/CA6-LiveTS/StreamTS-InukaiPurin/main/livets.repo"
 "UC98iRMvRqUxRD6GP4NtRskw","dizzydokuro","Dizzy Dokuro Ch. 【Phase Connect】","https://raw.githubusercontent.com/CA6-LiveTS/StreamTS-DizzyDokuro/main/livets.repo"
+"UCx_zwZuGIS4jxO07kFk8G6Q","kanekolumi","Lumi Ch.【Phase Connect】","https://raw.githubusercontent.com/CA6-LiveTS/StreamTS-KanekoLumi/main/livets.repo"
